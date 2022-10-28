@@ -1,1 +1,2 @@
-image: public.ecr.aws/vlaaaaaaad/gitpod-terraform:latest
+image:
+  file: .gitpod.Dockerfile
