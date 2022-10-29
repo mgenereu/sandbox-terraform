@@ -7,7 +7,3 @@ terraform {
 
   }
 }
-
-resource "google_compute_instance" "michael" {
-  machine_type = ""
-}
